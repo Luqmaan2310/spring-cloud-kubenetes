@@ -1,0 +1,2 @@
+/Users/luqmaannakooda/dev/tutorials/spring-cloud/spring-cloud-kubernetes/liveness-example/src/main/java/com/baeldung/liveness/health/CustomHealthIndicator.java
+/Users/luqmaannakooda/dev/tutorials/spring-cloud/spring-cloud-kubernetes/liveness-example/src/main/java/com/baeldung/liveness/Application.java
